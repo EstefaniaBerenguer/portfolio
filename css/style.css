@@ -1,6 +1,15 @@
 @font-face {
   font-family: 'Work Sans';
-  src: url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap') format('truetype');
+  src: url('https://fonts.googleapis.com/css2?family=Work+Sans:ital@0;1&display=swap') format('truetype');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Work Sans';
+  src: url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,700;1,700&display=swap') format('truetype');
+  font-style: normal;
+  font-weight: 700;
 }
 
 @font-face {

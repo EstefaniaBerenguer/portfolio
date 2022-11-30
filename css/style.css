@@ -187,6 +187,11 @@ button:hover {
   }
     ::-webkit-scrollbar {display: none;}
   
+  .main-bloques {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
   .portada {
     display: block;
   height: max-content;

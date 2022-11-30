@@ -169,4 +169,8 @@ button:hover {
     min-height: max-content;
   }
     ::-webkit-scrollbar {display: none;}
+    
+  .margen-abajo {
+    margin-bottom: 40px;
+  }
 }

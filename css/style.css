@@ -168,4 +168,5 @@ button:hover {
   main {
     min-height: max-content;
   }
+    ::-webkit-scrollbar {display: none;}
 }

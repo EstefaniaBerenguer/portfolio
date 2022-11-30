@@ -83,12 +83,12 @@ body {
 
 h1, h2, h4 {
     font-family: 'Raleway', sans-serif;
-  font-weight: 900;
+  font-weight: 900 !important;
 }
 
 h3, h5 {
   font-family: 'Work Sans', sans-serif;
-  font-weight: 500;
+  font-weight: 500 !important;
 }
 
 .col-md-7 h2 {

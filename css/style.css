@@ -5,6 +5,11 @@
   font-weight: 300;
 }
 
+@font-face {
+  font-family: 'Raleway',
+  src: url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap') format('truetype');
+}
+
 body {
     display: flex;
     font-family: Work Sans;

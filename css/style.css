@@ -1,15 +1,6 @@
 @font-face {
   font-family: Work Sans;
-  src: url('https://estefaniaberenguer.github.io/portfolio/fonts/WorkSans-Regular.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: Work Sans;
-  src: url('https://estefaniaberenguer.github.io/portfolio/fonts/WorkSans-Bold.ttf') format('truetype');
-  font-style: normal;
-  font-weight: 700;
+  src: url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap') format('truetype');
 }
 
 @font-face {

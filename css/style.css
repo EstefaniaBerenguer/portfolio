@@ -6,6 +6,13 @@
 }
 
 @font-face {
+  font-family: Work Sans;
+  src: url('https://estefaniaberenguer.github.io/portfolio/fonts/WorkSans-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
   font-family: 'Raleway',
   src: url('https://fonts.googleapis.com/css2?family=Raleway:wght@900&display=swap') format('truetype');
   font-style: normal;
@@ -15,6 +22,7 @@
 body {
     display: flex;
     font-family: Work Sans;
+    font-weight: 300;
 }
 
   /* Scrol bar */
@@ -82,13 +90,13 @@ body {
   /* estilo */
 
 h1, h2, h4 {
-    font-family: 'Raleway', sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 900 !important;
 }
 
 h3, h5 {
   font-family: 'Work Sans', sans-serif;
-  font-weight: 600 !important;
+  font-weight: 700 !important;
 }
 
 .col-md-7 h2 {

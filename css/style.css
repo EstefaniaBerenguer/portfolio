@@ -71,7 +71,6 @@ body {
     display: flex;
     height: 100%;
     align-items: center;
-    padding-bottom: 120px !important;
 }
 
 .portada2 {
@@ -189,5 +188,10 @@ button:hover {
     min-height: max-content;
   }
     ::-webkit-scrollbar {display: none;}
-
+  
+  .portada {
+    display: block;
+  height: max-content;
+  padding-bottom: 100px !important;
+}
 }

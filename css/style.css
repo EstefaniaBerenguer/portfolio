@@ -5,11 +5,6 @@
   font-weight: 300;
 }
 
-@font-face {
-  font-family: Work Sans;
-  src: url('https://estefaniaberenguer.github.io/portfolio/fonts/WorkSans-Bold.ttf') format('truetype');
-}
-
 body {
     display: flex;
     font-family: Work Sans;
